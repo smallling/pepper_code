@@ -8,3 +8,6 @@ stereo Camera:http://doc.aldebaran.com/2-5/family/pepper_technical/video_Stereo_
 
 平板API和demo代码:http://doc.aldebaran.com/2-5/naoqi/core/altabletservice-api.html?highlight=tablet
 
+joints种类，结构，XYZ与对应什么动作，角度范围:http://doc.aldebaran.com/2-5/family/pepper_technical/joints_pep.html
+
+人脸检测和跟踪样例:http://doc.aldebaran.com/2-5/dev/python/examples/vision/face_detection.html
